@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc43e524a26076c4f9bf92eb00a7fc41
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nexa Light
+  fontNames:
+  - Nexa Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 415d1adf411840c48a72f7f7242ad3cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
